@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ugur
-- 👀 I’m interested Full stack development
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning NextJS
 
 
